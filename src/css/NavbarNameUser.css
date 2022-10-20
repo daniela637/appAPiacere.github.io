@@ -1,0 +1,7 @@
+.navNameUsu{
+    z-index: 100;
+    top: 10px;
+}
+.navNameUsu > span:hover{
+    cursor: pointer;
+}
